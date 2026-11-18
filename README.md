@@ -4,12 +4,13 @@
 Student code is executed in isolated Docker sandboxes; an LLM (Google Gemini) grades against the trainer's rubric using
 that real evidence; trainers review every score before it is published to students.
 
-> **About this repository.** This is a team project built during an AI training program at **FPT Academy** (Group 04,
-> Oct–Nov 2026). The source code and the course data are **not public**. This repository only presents the project:
+> **About this repository.** This is a team project built during **On-the-Job Training (OJT) at FPT Software Academy
+> (FSA)**, Ho Chi Minh City (Group 04, 14/09/2026 – 12/12/2026). The source code and the course data are **not public**. This repository only presents the project:
 > architecture, grading flow and screenshots. **All screenshots use synthetic sample data** (students SV001–SV003, sample
 > assignments written for the demo). A live demo or code walkthrough is available on request during an interview.
 
-**Author:** Phan Gia Khanh — main developer in a 4-member team (~70% of the commits in the team repositories).
+**Author:** Phan Gia Khanh — final-year Software Engineering student (Data Science specialization) at FPT University;
+main developer in a 4-member team (~70% of the commits in the team repositories).
 
 ---
 
@@ -99,7 +100,7 @@ AI-assisted development with Claude Code
 
 ### Tóm tắt (Tiếng Việt)
 
-Nền tảng chấm bài lập trình bằng AI (Python, SQL, Front-End, Java/Hibernate), làm trong khóa đào tạo AI tại
-FPT Academy (nhóm 04). Bài làm được **chạy thật** trong 4 sandbox Docker cách ly; AI chấm theo rubric dựa trên kết quả
+Nền tảng chấm bài lập trình bằng AI (Python, SQL, Front-End, Java/Hibernate), làm trong thời gian OJT tại
+FPT Software Academy (FSA), TP. Hồ Chí Minh (nhóm 04, 14/09/2026 – 12/12/2026). Bài làm được **chạy thật** trong 4 sandbox Docker cách ly; AI chấm theo rubric dựa trên kết quả
 chạy thật; giảng viên duyệt trước khi công bố điểm. Mã nguồn và dữ liệu khóa học **không công khai**; repo này chỉ giới
 thiệu dự án, mọi ảnh chụp dùng **dữ liệu mẫu tự tạo**. Có thể demo trực tiếp khi phỏng vấn.
