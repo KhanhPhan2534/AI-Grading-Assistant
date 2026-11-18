@@ -10,7 +10,7 @@ that real evidence; trainers review every score before it is published to studen
 > assignments written for the demo). A live demo or code walkthrough is available on request during an interview.
 
 **Author:** Phan Gia Khanh — final-year Software Engineering student (Data Science specialization) at FPT University;
-main developer in a 4-member team (~70% of the commits in the team repositories).
+team leader and main developer of a 4-member team (~70% of the commits in the team repositories).
 
 ---
 
